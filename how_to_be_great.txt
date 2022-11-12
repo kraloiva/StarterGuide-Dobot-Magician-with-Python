@@ -1,0 +1,17 @@
+Otervřeš prohlížeč: 
+1. Github
+2. Prihlasis se
+3. Otevres ten python neco neco repo ve svém profilu
+4. Klikneš na Code a pak https a pak na open with github desktop.
+V PC:
+5. Nainstaluješ github desktop a přihlásíš se.
+6. Otevřeš github desktop a zvolíš ten repozitář a dáš clone.
+7. Zvolíš složku kam to chceš dát.
+
+Je dobré mít editor, tak doporučuji vs-code. 
+8. Nainstaluj VS-CODE https://code.visualstudio.com/docs/?dv=win
+9. Přihlaš se v něm ať máš synchronyzovaný nastavení a extensions.
+10. Jdi koumat Readme projektu a co je potřeba aby si spustila program co tam je. (bude to souviset main.py v repozitáři, pokud máš všechno co potřebuješ mělo by stačit přes vs-code konzoli dát "python3 main.py" )
+11. Spusti ukázkový program přes vs-code
+12. Koukni na .py soubory a jeho funkce.
+
