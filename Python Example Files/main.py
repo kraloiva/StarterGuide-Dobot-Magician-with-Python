@@ -2,7 +2,9 @@
 # 2019
 
 import threading
+
 import DoBotArm as Dbt
+
 
 #Example of bundling functions
 def functons():
@@ -40,6 +42,8 @@ def manualMode():
         elif(inputCoords[0] == "suct"):
             ctrlBot.toggleSuction()
         elif(inputCoords[0] == "q"):
+            print("should exit")
+            ctrlBot.dobotDisconnect()
             break
         else:
             print("Unrecognized command")
@@ -48,5 +52,4 @@ def manualMode():
 #--Main Program--
 def main():
     manualMode()
-
 main()
