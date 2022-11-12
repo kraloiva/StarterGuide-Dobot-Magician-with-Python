@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
 import sys
+
 sys.path.insert(1,'./DLL')
 import DobotDllType as dType
-
 
 """-------The DoBot Control Class-------
 Variables:
@@ -58,7 +58,7 @@ class DoBotArm:
 
     #Returns to home location and then disconnects
     def dobotDisconnect(self):
-        self.moveHome()
+       # self.moveHome()
         dType.DisconnectDobot(self.api)
 
     #Delays commands

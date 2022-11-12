@@ -15,3 +15,5 @@ Je dobré mít editor, tak doporučuji vs-code.
 11. Spusti ukázkový program přes vs-code
 12. Koukni na .py soubory a jeho funkce.
 
+https://en.dobot.cn/service/download-center?keyword=&data_type%5B%5D=14
+
