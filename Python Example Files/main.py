@@ -48,8 +48,12 @@ def manualMode():
         else:
             print("Unrecognized command")
 
+def programaticWay():
+    print("I am gonna do it my way")
+
 
 #--Main Program--
 def main():
-    manualMode()
+    #manualMode()
+    programaticWay()
 main()

@@ -58,7 +58,7 @@ class DoBotArm:
 
     #Returns to home location and then disconnects
     def dobotDisconnect(self):
-       # self.moveHome()
+        self.moveHome()
         dType.DisconnectDobot(self.api)
 
     #Delays commands
